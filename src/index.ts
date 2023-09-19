@@ -1,4 +1,4 @@
-export { SCT } from './sct.js';
+export { SCT, Navaid, Position } from './sct.js';
 export { ASR } from './asr.js';
 export { ESE } from './ese.js';
 
